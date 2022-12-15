@@ -1,0 +1,7 @@
+export enum CardNetwork {
+    VISA = 'VISA',
+    MASTERCARD = 'MASTERCARD',
+    CHINA_UNIONPAY = 'CHINA UNIONPAY',
+    JCB = 'JCB',
+    AMERICAN_EXPRESS = 'AMERICAN EXPRESS'
+}
